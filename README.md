@@ -1,4 +1,4 @@
-# Strivers-SDE-Sheet-Challenge
+# Strivers-SDE-Sheet-Challenge - 60 Days challenge
 
 Hey ! My Name is Ravi and I have participated in #StriversSheetChallenge.
 
